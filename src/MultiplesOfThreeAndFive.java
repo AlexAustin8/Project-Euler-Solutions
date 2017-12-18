@@ -1,7 +1,7 @@
 /**
  * @author Alexander Austin
  * 
- * The purpose of this class is to find the Largest Prime Factor of a number input by the user. 
+ * The purpose of this program is to find the sum of all multiples of 3 and 5 that are less than 1000
  * This is a solution to a prompt on projecteuler.net which can be found here: https://projecteuler.net/problem=1
  */
 
