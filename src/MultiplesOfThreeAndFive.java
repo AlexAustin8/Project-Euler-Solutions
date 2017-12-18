@@ -1,3 +1,9 @@
+/**
+ * @author Alexander Austin
+ * 
+ * The purpose of this class is to find the Largest Prime Factor of a number input by the user. 
+ * This is a solution to a prompt on projecteuler.net which can be found here: https://projecteuler.net/problem=1
+ */
 
 public class MultiplesOfThreeAndFive {
 	
