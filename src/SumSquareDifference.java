@@ -1,7 +1,7 @@
 /**
  * @author Alexander Austin
  * 
- * The purpose of this class is to find the difference between the sum of squares and sum of a number of natural numbers entered in by user
+ * The purpose of this class is to find the difference between the sum of squares and square of a sum of a number of natural numbers entered in by user
  * This is a solution to a prompt on projecteuler.net which can be found here: https://projecteuler.net/problem=6
  */
 import java.util.*;
