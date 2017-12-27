@@ -20,7 +20,7 @@ public class LargestPrimeFactor {
 	}
 	
 	public static boolean isPrime(long n) {
-		for(long i = n-1; i > 1; i--) {
+		for(int i = 2; i <= Math.sqrt(n); i++) {
 			if(n % i == 0) {
 				return false;
 			}

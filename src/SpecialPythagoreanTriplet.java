@@ -10,7 +10,7 @@ public class SpecialPythagoreanTriplet {
 	
 	public static int findPythagoreanTriplet(int n) {
 		for(int i = 1; i < n; i++) {
-			for(int k = 1; k+i < n; k++) {
+			for(int k = 1; k+i<n; k++) {
 				for(int j = 1; j+k+i<=n; j++) {
 					if(i+j+k == n && ((i*i) + (j*j) == k*k || (k*k) + (j*j) == i*i || (i*i) + (k*k) == j*j)){
 						return(i*j*k);
