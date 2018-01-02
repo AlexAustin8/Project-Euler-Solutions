@@ -4,7 +4,7 @@ import java.util.Scanner;
  * @author Alexander Austin
  * 
  * The purpose of this class is to find the sum of all prime numbers below a limit specified by the user.
- * This is a solution to a prompt on projecteuler.net which can be found here: https://projecteuler.net/problem=9
+ * This is a solution to a prompt on projecteuler.net which can be found here: https://projecteuler.net/problem=10
  */
 public class SummationOfPrimes {
 	
