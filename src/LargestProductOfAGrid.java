@@ -1,7 +1,7 @@
 /**
  * @author Alexander Austin
  * 
- * The purpose of this class is to find the greatest sum of adjacent numbers(up, down, left, right, diagonal) in a grid.
+ * The purpose of this class is to find the greatest product of adjacent numbers(up, down, left, right, diagonal) in a grid.
  * This is a solution to a prompt on projecteuler.net which can be found here: https://projecteuler.net/problem=11
  */
 public class LargestProductOfAGrid {
