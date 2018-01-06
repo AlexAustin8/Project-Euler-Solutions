@@ -5,7 +5,7 @@ public class LargeSum {
 /**
  * @author Alexander Austin
  * 
- * The purpose of find the first 10 digits of a massive sum read line by line from a file called "Numbers.txt"
+ * The purpose of find the first 10 digits of a massive sum read line by line from a file called "Numbers.txt" and return it as a string.
  * More specifically, the prompt dictates that this program must find the first 10 digits of a sum of 100 50 digit numbers.
  * This is a solution to a prompt on projecteuler.net which can be found here: https://projecteuler.net/problem=13
  */
